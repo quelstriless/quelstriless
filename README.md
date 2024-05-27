@@ -18,7 +18,7 @@
 
 ## 📚 Projects & Contributions
 
-- [ChronoKnight2D](https://github.com/quelstriless/ChronoKnight2D): Description of project 1
-- [LSTM-Crypto-Price-Prediction](https://github.com/quelstriless/LSTM-Crypto-Price-Prediction): Description of project 2
+- [ChronoKnight2D](https://github.com/quelstriless/ChronoKnight2D): 
+- [LSTM-Crypto-Price-Prediction](https://github.com/quelstriless/LSTM-Crypto-Price-Prediction): 
 
 
