@@ -1,16 +1,16 @@
-# Hi there
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=username.username)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=quelstriless.quelstriless)
 
-I'm a [Your Profession] with a passion for [Your Interests]. I love contributing to open-source projects and building cool stuff. 
+Best
 
 ## 🛠️ Skills & Technologies
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ## 📈 GitHub Stats
 
@@ -18,7 +18,7 @@ I'm a [Your Profession] with a passion for [Your Interests]. I love contributing
 
 ## 📚 Projects & Contributions
 
-- [Project 1]([https://github.com/username/project1](https://github.com/quelstriless/ChronoKnight2D)): Description of project 1
-- [Project 2]([https://github.com/username/project2](https://github.com/quelstriless/LSTM-Crypto-Price-Prediction)): Description of project 2
+- [ChronoKnight2D]([https://github.com/username/project1](https://github.com/quelstriless/ChronoKnight2D)): Description of project 1
+- [LSTM-Crypto-Price-Prediction]([https://github.com/username/project2](https://github.com/quelstriless/LSTM-Crypto-Price-Prediction)): Description of project 2
 
 
